@@ -1,3 +1,4 @@
+% Demonstrates behaviour of a peculiar matrix
 A = [1 0; 0 2];
 B = [1 10e-2; 1 2];
 
