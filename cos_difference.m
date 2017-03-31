@@ -1,3 +1,5 @@
+% This script displays the progress of a difference equation 
+% that plots a circle for sufficiently small time steps
 U_0 = [0; 1];
 plot([0, U_0(1)], [0, U_0(2)]);
 hold on;
